@@ -1,0 +1,10 @@
+*.o
+*.pyc
+*.json
+*.asm
+*.html
+riscv/
+riscv32-elf-ubuntu-22.04-gcc-nightly-2024.12.16-nightly.tar.xz
+*.log
+*.csv
+*.txt
